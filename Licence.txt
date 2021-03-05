@@ -1,0 +1,140 @@
+BY PURCHASING THE LICENSE CERTIFICATE OR BY INSTALLING THE LICENSED SOFTWARE INTO YOUR COMPUTER FOR EVALUATION OR OTHER USAGE, YOU HAVE AGREED THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU.
+
+Table of Contents
+I. DEFINITIONS
+II. INTELLECTUAL PROPERTY RIGHTS
+III. GRANT OF LICENSE
+IV. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+V. CUSTOMER SUPPORT
+VI. PERSONAL DATA
+VII. GENERAL TERMS
+
+I. DEFINITIONS
+1. "Affiliate" - Any entity belonging to the same group as the Licensor.
+2. "Agreement" - This end-user license agreement, the current document.
+3.  "Authorized User(s)" - A natural person or persons that are granted the License to Use Licensed Software according to section III ("Grant of License").
+4.  "Commercial Licensee" - A Licensee who is holding or who has been holding a valid non-free License Certificate.
+5. "E-mail Support" - A form of customer support provided by the Licensor. At the time of writing, the corresponding e-mail address is pitestsupport@groupcdg.com; should the address be changed, the new address will be referred to on the Licensor's web site.
+6. "Employee of Licensee" - A natural person who is an employee, independent contractor or other temporary worker, or a member of the Licensee or its affiliates
+7. "Evaluating Licensee" - A natural person who does not hold and has never held a License Certificate and who wants to try Licensed Software for evaluation purposes and who has not been using Licensed Software before the current evaluation period.
+8. "IP Rights" - Intellectual property rights, such as (i) patents, pending patent applications, designs, trademarks and trade names (whether registered or unregistered), copyright and related rights, database rights, knowhow and confidential information; (ii) all other intellectual property rights and similar or equivalent rights anywhere in the world which currently exist or are recognized in the future; and (iii) applications, extensions and renewals in relation to any such rights.
+9. "License" - The license to Use the Licensed Software, as granted to the Licensee in section III ("Grant of License").
+
+10. "License Certificate" - Evidence of a license provided by Licensor to Licensee in electronic or printed form. Any email from the Licensor including a License Key and intending to grant or extend the license to Use the Licensed Software is construed as a License Certificate.
+11. "License Key" - A unique key-code that enables an Authorized User to use Licensed Software by unlocking the copy protection mechanism. Only Licensor and/or its representatives are permitted to produce License Keys for the Licensed Software.
+12. "Licensed Software" the software product produced by CDG.
+13. "Licensee" - You, the end user of the Licensed Software; a natural or a legal person or entity. The legal identity of the Licensee may change due to a merger, acquisition or other types of succession.
+14. "Licensor" Computing Distribution Group. The legal identity of the Licensor may change due to a merger, acquisition or other types of succession. This Agreement can be assigned along with the IP Rights for the Licensed Software.
+15. "Personal Data" - Any personal data which the Licensee has forwarded or may forward (at any time in the future) to the Licensor and/or any Affiliate.
+16. "Third Party Software" - Software and other materials prepared and owned by software vendors other than Licensor.
+17. "to Use the Licensed Software" - To load, install, execute, evaluate and/or display (to "Use") the Licensed Software.
+18. "Unpaid Licensee" - A Licensee who is holding an Evaluation License or any other type of License that the Licensor has not been paid for.
+19. Data Protection Laws:- (i) the Data Protection Act 2018 (ii) the General Data Protection Regulation ((EU) 2016/679) (GDPR) and any national implementing laws, regulations and secondary legislation, for so long as the GDPR is effective in the UK, and :(ii) any successor legislation to the Data Protection Act 2018 and the GDPR.
+II. INTELLECTUAL PROPERTY RIGHTS
+20. Ownership
+(i) Licensed Software is the property of Licensor. Title and copyrights to Licensed Software, in whole or in part, and all copies thereof, and all modifications, enhancements, derivatives and other alterations of Licensed Software, regardless of who made them, if any, are, and will remain, the sole and exclusive property of Licensor.
+(ii) Licensed Software is intellectual property protected by copyright laws and international treaty provisions.
+(iii) The structure, organization, and code embodied in Licensed Software are the valuable and confidential trade secrets of Licensor and its suppliers and are protected by intellectual property laws and treaties.
+(iv) Licensed Software contains methods and techniques that Licensor holds patents for. The patented methods and techniques are protected by the patent law and relevant international treaties.
+(v) 
+21. Third Party Software
+(i) Some Third Party Software included in the Licensed Software may be subject to other terms and conditions. These terms and conditions are available in the separate file "3rd-party-licenses.txt" included in the distributions of Licensed Software, and directly from the web sites of the corresponding vendors.
+(ii) Licensor will update the list of all Third Party Software in the latest version of the Licensed Software as it is publicly made available for download. The Third Party Software included in the Licensed Software is utilized in a manner such that the Licensed Software is not, in whole or in part, governed by an Excluded License. An Excluded License is any non-reciprocal arrangement that requires, as a condition to such arrangement, that derivatives or modifications of such open source software be released either (a) under such open source license terms, or (b) to others at no fee.
+22. No Removal of Notices
+The Licensee agrees that he will not remove, obscure, make illegible or alter any notices or indications of the IP Rights and/or Licensor's rights and ownership thereof, whether such notice or indications are affixed on, contained in or otherwise connected to any materials.
+23. No Hacking
+The Licensee is not allowed to undertake, cause, permit or authorize the modification, creation of derivative works, translation, reverse engineering, decompiling, disassembling or hacking of the Licensed Software or any part thereof except to the extent permitted by law.
+24. No Redistribution
+The Licensee is not allowed to sell, assign, rent, lease, distribute, export, import, act as an intermediary or provider, or otherwise grant rights to third parties with regard to the Licensed Software.
+25. Backup Copies
+The Authorized User is allowed to make back-up copies of Licensed Software for archival purposes.
+Storage and copying of the Licensed Software is permitted without the purchase of a Licence Key, for example for the purpose of maintaining a maven repository or mirror.
+III. GRANT OF LICENSE
+III-A. GENERAL LICENSING TERMS
+26. Unauthorized Usage
+The usage of Licensed Software is allowed only pursuant to a License of any type granted to the Authorized Users hereinafter. If under any circumstances, an Authorized User or any third person discovers or creates a way to Use the Licensed Software, with or without a License Key, beyond the scope of the License granted to him, this by no means indicates that this Use of Licensed Software is permitted.
+27. Licensee and Authorized Users
+Each of the following License grants are valid for the specified Authorized User(s). If the Licensee is a legal person, the Licensee itself is just a party of this Agreement. The natural person(s) authorized to Use Licensed Software is/are the particular natural person(s) who is/are defined below as the Authorized User(s).
+28. Upgrades
+All types of Licenses are independent of the product version of the Licensed Software.
+(i) The Licensee can upgrade to a newer version at any time, if not stated otherwise in the Agreement attached to the new version of the Licensed Software. Licensor reserves the right to decide that a new version of the Licensed Software has sufficiently increased or different functionality such that it is no longer available as a free upgrade.
+(ii) By upgrading to a newer version, the Licensee accepts the terms and conditions of the Agreement attached to the newer version if the Agreement has changed between the two versions of the Licensed Software.
+29. General Terms
+(i) Licensee acknowledges that the Licensed Software is for the use of, at most, the number of users stated at the time of purchase of the License Certificate. 
+(ii) Licensee acknowledges that the Licensed Software is for use only with the java packages stated at the time of purchase of the License Certificate.
+(iii) The License is granted only for the time period specified in the License Certificate, subject to renewal as set forth herein.
+IV. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+30. Disclaimer of Warranty
+SUBJECT TO ANY STATUTORY WARRANTIES WHICH CANNOT BE EXCLUDED, LICENSOR MAKES NO WARRANTIES OR CONDITIONS EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, REGARDING LICENSED SOFTWARE. Although Licensor will make reasonable efforts to fix errors in Licensed Software, the Licensee acknowledges and accepts that the Licensed Software is provided "as is".
+31. Limitation of Liability
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE LICENSED SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+32. Liquidated Damages
+In no event will Licensor's liability to the Licensee, whether in contract, tort (including negligence), or otherwise, exceed the amount paid by the Licensee for the Licensed Software. The foregoing limitations will apply to any liability under this agreement or otherwise, even if the above stated warranty fails of its essential purpose.�
+33. Indemnification of Patent and/or Copyright Infringement Claims
+(i) Licensor will defend and indemnify Licensee for all costs (including reasonable attorney's fees) arising from a claim that Licensed Software furnished and used within the scope of this Agreement infringes any copyright or patent provided that: (i) Licensee notifies Licensor in writing within 30 days of the claim; (ii) Licensor has sole control of the defence and all related settlement negotiations, and (iii) Licensee provides Licensor with the assistance, information, and authority necessary to perform the above.
+(ii) Licensor will have no liability for any claim of infringement based on (i) code contained within Licensed Software which was not created by Licensor; (ii) use of a superseded or altered release of Licensed Software, except for such alteration(s) or modification(s) which have been made by Licensor or under Licensor's direction, if such infringement would have been avoided by the use of a current, unaltered release of Licensed Software that Licensor provides to Licensee, or (iii) the combination, operation, or use of any software furnished under this Agreement with programs or data not furnished by Licensor if such infringement would have been avoided by the use of Licensed Software without such programs or data.
+(iii) In the event Licensed Software is found to infringe or believed by Licensor to infringe, or Licensee's use of Licensed Software is enjoined, Licensor will have the option, at its expense, to (i) modify Licensed Software to cause it to become non-infringing; (ii) obtain for Licensee a license to continue using Licensed Software; (iii) substitute Licensed Software with other software reasonably suitable to Licensee, or (iv) if none of the foregoing remedies are commercially feasible, terminate the License for the Licensed Software and refund the proportionate part of the License fees that is calculated in the following way: [refunded sum] = [whole fees paid] * [length of cancelled license period] / [length of originally negotiated license period].
+(iv) This section states Licensor's entire liability for intellectual property rights infringement.
+V. CUSTOMER SUPPORT
+34. Customer Support for an Unpaid Licensees
+For an Unpaid Licensee, the Licensor will have no obligation to provide support, updates, patches, bug fixes or other enhancements.
+35. Customer Support for Commercial Licensees
+For a Commercial Licensee holding a valid License Certificate, support will be available during the period of validity of Licensee's License Certificate as follows:
+i. For holders of a paid License Certificate of any type, E-mail Support is guaranteed to be available at least during a period of one year from the purchase of the License Certificate. The response time will be reasonable, specific response times may be specified in other documentation.
+36. Supported Versions
+Any guarantees of support availability only apply to the latest version of Licensed Software. The Licensee is allowed to upgrade to the latest version as specified by this Agreement.
+VI. PERSONAL DATA
+37. Consent for the Processing of Personal Data
+The Licensee hereby grants the Licensor and any Affiliate its consent to process the Personal Data in accordance with the purposes stipulated in Section 53 and forward the Personal Data to any areas and/or entities referred to in Section 54, provided all transfers of Personal Data shall be affected by way of Appropriate Safeguards and in accordance with Data Protection Legislation
+38. Purposes for Processing Personal Data
+The Licensor and/or any Affiliate may process the Personal Data for the following purposes, provided all transfers of Personal Data shall be affected by way of Appropriate Safeguards and in accordance with Data Protection Legislation:
+(i) performing or securing the performance of any agreement between the Licensee and the Licensor and/or any Affiliate;
+(ii) improving any of the products and/or services provided by the Licensor and/or any Affiliate;
+(iii) analysing the use of any of the products and/or services provided by the Licensor and/or any Affiliate;
+(iv) complying with any relevant laws or responding to any requests from any public authorities;
+(v) making direct promotional offers, including sending information about the products and/or services provided by Licensor and/or any Affiliate and/or information regarding Licensor and/or any Affiliate in general;
+(vi) preparing for any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of the business or assets of the Licensor and/or any Affiliate.
+39. Transferring Personal Data
+The Licensor may transfer the Personal Data to the following entities, whereas this may include transferring the Personal Data to countries which lack the level of data protection in force in the member states of the European Union and the European Economic Area, provided all transfers of Personal Data shall be affected by way of Appropriate Safeguards and in accordance with Data Protection Legislation:
+(i) any Affiliate;
+(ii) any third parties which the Licensor or any Affiliate uses to develop, improve, market, advertise, sell or otherwise assist with providing any of the products and/or services provided by the Licensor and/or any Affiliate;
+(iii) any public authorities with legitimate interest to the Personal Data.
+40. Data Subjects Rights and Chief Processor
+The Licensee acknowledges that it has all the rights of a data subject and that the chief processor of the Personal Data shall be the Licensor, unless the Licensor notifies the Licensee otherwise.
+41. Both parties will comply with all applicable requirements of the Data Protection Laws. This clause VI is in addition to, and does not relieve, remove or replace, a party's obligations under the Data Protection Laws.
+VII. GENERAL TERMS
+42. Applicable Law and Competent Court
+This Licence will be governed by and construed in accordance with the laws of England and Wales.
+43. Use of Name and Logo
+Licensee agrees to be identified as a customer of Licensor and that Licensor may refer to Licensee by name, trade name and trademark, if applicable, and may briefly describe Licensee's business in Licensor's marketing materials, on Licensor's web site and in public or legal documents. Licensee hereby grants Licensor a license to use Licensee's name and any of Licensee's trade names and trademarks solely pursuant to this marketing section.
+For an opt-out of this term, please contact pitestsupport@cdg.com.
+44. Gathering of Usage Statistics
+Licensee acknowledges and agrees that the Licensed Software may contain a feature that reports the usage statistics, diagnostics information and usage meta-information of the Licensed Software back to the Licensor. Licensee may opt out of the gathering of usage statistics by turning off this feature in the Licensed Software settings.
+45. Confidentiality
+(i) If any information on the working principles of the Licensed Software that has not previously been publicly revealed by the Licensor, has become known to the Licensee while receiving customer support or by other means of communication with the Licensor, the Licensee is obliged to keep this information confidential.
+(ii) The Licensor will keep confidential any information that the Licensee has sent to E-mail Support. If a piece of information is such as the Licensee's interest for its confidentiality is not generally understandable or is surprising, confidentiality will be guaranteed only if the Licensee explicitly requests it in the same e-mail containing this information.
+46. Late Payment Interest
+(i)Licensee will pay to Licensor the license fee and other charges and expenses as set forth in an appropriate invoice or other purchase documentation ("Invoice") within thirty (30) days of the date of the Invoice. Licensor may charge interest for any payment that is past the payment date as specified by the Invoice, or if left unspecified on the Invoice, that is more than thirty (30) days since the date of the Invoice.
+(ii) The interest rate is one and one-half percent (1.5%) per month. If this interest rate exceeds the maximal rate allowed by the law, the applied rate will be the maximal rate allowed by the law.
+47. Entire Agreement
+This Agreement contains the entire agreement of the Parties with respect to the subject matter of this Agreement, and supersedes all prior negotiations, agreements and understandings with respect thereto. This Agreement may only be amended by a written document duly executed by the Parties.
+48. Severability
+If any provision or provisions of this Agreement shall be held to be invalid, illegal, unenforceable or in conflict with the law of any jurisdiction, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+49. No Waiver
+No waiver of any provision or condition herein shall be valid unless in writing and signed by you and an authorized representative of Licensor provided that no waiver of any breach of any provisions of this Agreement will constitute a waiver of any prior, concurrent or subsequent breach. Licensor's failure to insist upon or enforce strict performance of any provision of this Agreement or any right shall not be construed as a waiver of any such provision or right.
+50. Alteration of Services
+Licensor can at any time alter prices, features, specifications, capabilities, functions, release dates, general availability or other characteristics of the Licensed Software. This will not affect the Commercial Licensee in his usage of the version of the Licensed Software the Licensee is using at the moment of these alterations, during the validity of the License Certificate he is currently holding.
+51. Alteration of Terms
+Licensor will reserve itself a right to change the terms of the current Agreement at any moment by making the new revision of this Agreement available on Licensor's website and including it in the future releases of the Licensed Software.
+
+(i) By updating the Licensed Software to a newer version that includes the new revision of this Agreement, the Licensee agrees to the new revision of this Agreement.
+(ii) By purchasing or otherwise receiving and accepting a new License Certificate, or otherwise extending the period of Use of the Licensed Software, the Licensee agrees to the latest revision of this Agreement available at that moment on Licensor's web site.
+(iii) If the Licensees are informed of an update of the terms via e-mail, the Licensee who does not agree to the new terms must inform the Licensor about his disagreement by sending an e-mail to E-mail Support within 30 days since Licensor's original e-mail. If a Commercial Licensee does not inform Licensor about his disagreement within 30 days, it is taken that he agrees to the new terms.
+52. Termination of Agreement
+(i) This Agreement itself is effective until terminated.
+(ii) Expiration or nonexistence of each License does not terminate the Agreement. The termination of the Agreement also terminates any License given in this Agreement. Should the Licensee fail to comply with any provision of this Agreement, the Agreement will terminate without a refund. If the breach of Agreement is curable, Licensee will have a cure period of 30 days to cure the breach after receiving a notice from Licensor. If the nature of the breach is such that it cannot reasonably be cured, the Agreement will terminate without a cure period.
+(iii) The Evaluating Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software. The Commercial Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software and notifying Licensor by e- mail.
+(iv) Upon termination of the Agreement, the Licensee must destroy all copies of the Licensed Software.
+(v) Upon termination of this Agreement, all terms in sections "Intellectual Property Rights" (section II), "Disclaimer of Warranty and Limitation of Liability" (section IV), "General terms" (section VI) and other terms that should survive due to their nature will continue to be effective. Invoices issued for License Certificate terms will remain due and payable in accordance with their terms and in accordance herewith.
+(vi) Licensee agrees that upon termination of this agreement for any reason, Licensor may take actions so that Licensed Software no longer operates.
+
